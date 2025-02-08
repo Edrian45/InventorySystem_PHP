@@ -1,0 +1,24 @@
+**Database Name: inventory_system**
+BSIS 2A
+Group Members:
+
+1.Edrian Claveria
+2.Arven Pocadilla
+3.Ma Stephanie Pauya
+4.Justine Panaguiton
+
+
+**Admin Login Details**
+
+Username: admin
+Password: admin
+
+**Special User Login Details**
+
+Username: special
+Password: special
+
+**User(Employee) Login Details**
+
+Username: user
+Password: user 
